@@ -119,3 +119,5 @@ This analysis is honest about its boundaries:
 ## Contact
 
 Anokh Palakurthi — [bignokh.com](https://bignokh.com)
+
+NOTE: THE DATA FOLDER IS TOO BIG (AND PROPRIETARY) FOR ME TO UPLOAD DIRECTLY; PLEASE CONTACT ME DIRECTLY FOR DATA USED IN THE PROJECT
