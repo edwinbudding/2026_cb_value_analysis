@@ -1,0 +1,6 @@
+cluster,count,grades_defense,grades_coverage_defense,qb_rating_against,yards_per_coverage_snap,playmaking_rate,catch_rate,forced_incompletion_rate,int_rate,pbu_rate,outside_rate,slot_rate,box_rate,man_rate,zone_rate,missed_tackle_rate,run_stop_rate,tackles_per_snap,avg_depth_of_target,target_rate,snap_counts_defense,archetype
+0,216,66.182,66.308,86.869,1.193,0.14,57.88,15.725,0.025,0.116,0.811,0.099,0.076,0.332,0.553,12.329,0.048,0.06,12.138,0.15,774.528,Playmaking outside CB
+1,198,63.586,63.137,98.174,1.206,0.074,72.831,7.633,0.018,0.056,0.12,0.73,0.108,0.3,0.578,13.617,0.098,0.072,6.935,0.154,663.965,Slot specialist
+2,151,71.019,71.864,78.64,0.826,0.158,55.609,16.303,0.033,0.126,0.861,0.048,0.072,0.259,0.611,13.674,0.04,0.05,12.458,0.115,827.099,Elite lockdown CB
+3,213,64.001,63.444,98.245,0.988,0.087,65.142,10.007,0.016,0.07,0.704,0.179,0.089,0.267,0.608,12.45,0.05,0.058,10.438,0.122,734.685,Average outside CB
+4,186,54.872,53.065,111.068,1.489,0.075,67.922,9.102,0.013,0.062,0.798,0.104,0.082,0.312,0.574,12.126,0.052,0.068,11.626,0.157,619.21,Replacement-level CB

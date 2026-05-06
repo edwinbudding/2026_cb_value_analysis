@@ -1,0 +1,6 @@
+archetype,count,mean_grade,mean_apy,median_apy,mean_cap_units,median_cap_units,min_cap_units,max_cap_units,efficiency_all,fa_market_count,fa_market_mean_grade,fa_market_mean_cap_units,efficiency_fa_market
+Average outside CB,204,64.017,4689144.328,2177538.5,2.119,1.025,0.288,9.436,30.212,86,66.007,4.168,15.836
+Elite lockdown CB,148,70.968,6730817.081,3576437.0,3.033,1.517,0.289,10.781,23.4,75,72.679,5.332,13.631
+Playmaking outside CB,210,66.09,5125415.4,2621089.5,2.532,1.346,0.289,10.959,26.103,97,67.694,4.714,14.359
+Replacement-level CB,182,54.839,3712794.731,1502499.0,1.791,0.69,0.295,8.417,30.624,60,56.303,4.209,13.376
+Slot specialist,181,63.589,2913106.823,1292500.0,1.379,0.609,0.287,9.839,46.123,53,66.626,3.318,20.083
